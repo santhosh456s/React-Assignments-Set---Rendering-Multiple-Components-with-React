@@ -5,9 +5,10 @@ const App = () => {
   return (
     <div id="main">
       <h1 data-ns-test="project-name">blog</h1>
-      <h2 dara-ns-test="project-name">every thik you know auout technology</h2>
+      <h1 dara-ns-test="project-description">
+        every thik you know auout technology
+      </h1>
     </div>
   );
 };
-
 export default App;
